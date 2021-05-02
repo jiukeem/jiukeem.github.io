@@ -13,9 +13,9 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: ''}
-- {icon: 'linkedin', link: ''}
-- {icon: 'envelope', link: 'mailto:'}
+- {icon: 'github', link: 'https://github.com/jiukeem'}
+- {icon: 'linkedin', link: 'www.linkedin.com/in/jeewoo-kim-0b5451208'}
+- {icon: 'envelope', link: 'mailto: jiukeem.may@gmail.com'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
